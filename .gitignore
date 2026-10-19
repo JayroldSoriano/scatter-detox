@@ -5,3 +5,4 @@ android
 ios
 .DS_Store
 *.local
+*.tsbuildinfo
