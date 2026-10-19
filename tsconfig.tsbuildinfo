@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/lib/resources.ts","./src/lib/slotEngine.test.ts","./src/lib/slotEngine.ts","./src/lib/store.ts","./src/screens/Help.tsx","./src/screens/Home.tsx","./src/screens/Onboarding.tsx","./src/screens/Reality.tsx","./src/screens/Share.tsx","./src/screens/Urge.tsx","./src/screens/types.ts"],"version":"5.9.3"}
